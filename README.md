@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[linkedIn](https://www.linkedin.com/in/otac%C3%ADliogomes)
 <!--
 **otaciliogomes/otaciliogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
