@@ -6,5 +6,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-@otaciliogomes_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/otaciliogomes_)](https://twitter.com/otaciliogomes_) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:otaciliogsantos@gmail.com)
 
-Welcome to my Github page! I am Otacílio student of Analysis and Systems Development and Software Developer in Javascript with 2 years of experience in web development.
+Welcome to my Github page! I am Otacílio student of Analysis and Systems Development and Software Developer in Javascript with 2 years of experience in Web e Mobile Applications.
 
